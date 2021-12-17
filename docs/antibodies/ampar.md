@@ -1,5 +1,7 @@
 # AMPAR
 
+α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (also known as AMPA receptor, AMPAR, or quisqualate receptor)
+
 ## Molecular characteristics
 IgG1
 
