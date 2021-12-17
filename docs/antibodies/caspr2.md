@@ -1,5 +1,7 @@
 # Contactin-associated protein-like 2 (CASPR2) (VGKC complex)
 
+Contactin-associated protein-2 (CASPR2) antibody
+
 ## Molecular characteristics
 Often IgG4
 
