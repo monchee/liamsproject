@@ -2,6 +2,8 @@
 
 **A clinical decision support system.**
 
+Powered by [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material)
+
 ## License
 
 **MIT License**
