@@ -1,4 +1,4 @@
-name: liamdocs
+name: liamsproject
 on:
   push:
     branches: 
