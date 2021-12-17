@@ -1,0 +1,158 @@
+# Project information
+site_name: Neuro101 - Liam's Project
+site_url: https://liam.immunowiki.com
+site_author: Liam Beiglari
+site_description: >-
+  Neuroimmune Serology Resource Centre
+
+# Repository
+# repo_name: squidfunk/mkdocs-material
+# repo_url: https://github.com/squidfunk/mkdocs-material
+# edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2021 Liam Beiglari
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+
+  # Static files
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  # font:
+    # text: Roboto
+    # code: Roboto Mono
+  # favicon: assets/favicon.png
+  icon:
+    logo: material/flask
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+  # analytics:
+    # provider: google
+    # property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://liam.immunowiki.com
+    - icon: fontawesome/brands/gitter
+      link: https://liam.immunowiki.com
+    - icon: fontawesome/brands/docker
+      link: https://liam.immunowiki.com
+    - icon: fontawesome/brands/twitter
+      link: https://liam.immunowiki.com
+    - icon: fontawesome/brands/linkedin
+      link: https://liam.immunowiki.com
+    - icon: fontawesome/brands/instagram
+      link: https://liam.immunowiki.com
+
+# Extensions
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.progressbar
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+    - Field Definitions: field-definitions.md
+  - Antibodies:
+    - AMPAR: antibodies/ampar.md
+    - CASPR2: antibodies/caspr2.md
+    - Hu: antibodies/hu.md
+    - Lgi1: antibodies/lgi1.md
+    - MOGAD: antibodies/mog.md
+    - NMDAR: antibodies/nmdar.md
+    - DNA: antibodies/dna.md
+  - Masterlist:
+    - Autoantibodies in clinical neurology: masterlist.md
+  - About: about.md
+  - Misc:
+    - Test: antibodies/test.md
+    # - Installation: getting-started.md
+    # - Creating your site: creating-your-site.md
+    # - Publishing your site: publishing-your-site.md
+    # - Customization: customization.md
+    # - License: license.md
+    # - Changelog:
+      # - changelog/index.md
+      # - How to upgrade: upgrade.md
