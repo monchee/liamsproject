@@ -13,6 +13,9 @@ tags:
 
 # Homer-3
 
+## Alternative names
+None
+
 ## Description
 Anti-Homer-3 antibodies are associated with cerebellitis, myeloradiculopathy, and REM sleep behaviour disorder and, even with intensive initial immunosuppression, often result in permanent ataxia and functional impairment.
 
