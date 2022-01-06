@@ -70,6 +70,7 @@ plugins:
   - minify:
       minify_html: true
   - tags
+      tags_file: tags.md
 
 # Customization
 extra_css:
