@@ -148,6 +148,7 @@ nav:
   - About: about.md
   - Misc:
     - Test: antibodies/test.md
+  - Tags: tags.md
     # - Installation: getting-started.md
     # - Creating your site: creating-your-site.md
     # - Publishing your site: publishing-your-site.md
