@@ -137,8 +137,6 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
-    - Field Definitions: field-definitions.md
   - Antibodies:
     - AMPAR: antibodies/ampar.md
     - CASPR2: antibodies/caspr2.md
@@ -148,10 +146,10 @@ nav:
     - MOGAD: antibodies/mog.md
     - NMDAR: antibodies/nmdar.md
     - DNA: antibodies/dna.md
+  - Clinical Features: tags.md
   - About: about.md
   - Misc:
     - Test: antibodies/test.md
-  - Tags: tags.md
     # - Installation: getting-started.md
     # - Creating your site: creating-your-site.md
     # - Publishing your site: publishing-your-site.md
