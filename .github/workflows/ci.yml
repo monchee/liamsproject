@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install git+https://${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}@github.com/squidfunk/mkdocs-material-insiders.git
+      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{ secrets.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 }}
