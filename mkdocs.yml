@@ -95,6 +95,10 @@ extra:
       link: https://liam.immunowiki.com
     - icon: fontawesome/brands/instagram
       link: https://liam.immunowiki.com
+  consent:
+    title: Disclaimer
+    description: >- 
+      Our website contains general medical information. The medical information is not advice and should not be treated as such.
 
 # Extensions
 markdown_extensions:
