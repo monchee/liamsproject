@@ -67,6 +67,7 @@ theme:
 # Plugins
 plugins:
   - search
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
   - tags:
