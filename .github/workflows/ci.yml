@@ -6,10 +6,13 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material mkdocs-minify-plugin 	  
+      - run: pip install git+https://${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}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
+env:
+  GH_TOKEN: ${{ secrets.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 }}
