@@ -69,7 +69,6 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - tags
 
 # Customization
 extra_css:
