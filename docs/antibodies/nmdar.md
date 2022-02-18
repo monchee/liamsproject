@@ -14,7 +14,7 @@ tags:
 
 !!! info
 
-    Near complete
+    Near complete.
 
 # NMDAR
 
@@ -36,7 +36,7 @@ Antibody mediated endocytosis and destruction of NMDAR complexes which results i
 Most commonly ovarian tumours in females aged 12-45y (50% association), Elderly patients less frequently have tumours (<25%) but are usually carcinomas, in children paraneoplastic cases are rare (<10%) [^1] (1) 
 { .annotate }
 
-1.  :man_raising_hand: (this has been approximately copied from Graus et al and might need different wording). [^1]
+1.  :man_raising_hand: *This has been approximately copied from Graus et al and might need different wording.* [^1]
 
 ## Laboratory method
 CSF or serum for a cell based assay: HEK293 cells expressing NMDAR.
