@@ -18,7 +18,7 @@ tags:
 
 # NMDAR
 
-## Site of action
+## Antigen full name
 N-methyl-D-aspartate receptor
 
 ## Description
@@ -33,7 +33,10 @@ Antibody mediated endocytosis and destruction of NMDAR complexes which results i
  - *Include SEARCH For NMDAR-A as diagnostic clues? (sleep dysfunction, excitement/disinhibition/mania/depression, agitation/aggression, rapid onset, children and young adult predominance, psychiatric disease absent, fluctuating catatonia, negative and positive symptoms at presentation, memory deficit, mutism, antipsychotic intolerance, rule out neuroleptic malignant syndrome, antibodies and additional tests"*
 
 ## Associated neoplasia
-Most commonly ovarian tumours in females aged 12-45y (50% association), Elderly patients less frequently have tumours (<25%) but are usually carcinomas, in children paraneoplastic cases are rare (<10%) (**this has been approximately copied from Graus et al and might need different wording**). [^1]
+Most commonly ovarian tumours in females aged 12-45y (50% association), Elderly patients less frequently have tumours (<25%) but are usually carcinomas, in children paraneoplastic cases are rare (<10%) [^1] (1) 
+{ .annotate }
+
+1.  :man_raising_hand: (this has been approximately copied from Graus et al and might need different wording). [^1]
 
 ## Laboratory method
 CSF or serum for a cell based assay: HEK293 cells expressing NMDAR.
