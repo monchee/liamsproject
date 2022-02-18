@@ -1,7 +1,8 @@
-# NMDAR
+!!! info
 
-## Molecular characteristics
-IgG1
+    Near complete
+
+# NMDAR
 
 ## Site of action
 N-methyl-D-aspartate receptor
