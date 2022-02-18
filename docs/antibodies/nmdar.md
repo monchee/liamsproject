@@ -2,13 +2,14 @@
 hide:
   - tags
 tags:
-  - Cerebellar ataxia
-  - Encephalopathy
-  - Myeloradiculopathy
-  - REM sleep behaviour disorder
-  - Autonomic dysfunction
-  - Cerebellar atrophy
-  - Multisystem Atrophy
+  - Seaizures
+  - Insomnia
+  - Irritability
+  - Psychosis
+  - Memory impairment
+  - Hypoventilation
+  - Disinhibition
+  - Ovarian tumour
 ---
 
 !!! info
