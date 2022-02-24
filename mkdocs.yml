@@ -138,7 +138,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Antibodies:
-    - Definitions: antibodies/definitions.md
+    - Field Definitions: antibodies/definitions.md
     - AMPAR: antibodies/ampar.md
     - CASPR2: antibodies/caspr2.md
     - Homer-3: antibodies/homer3.md
