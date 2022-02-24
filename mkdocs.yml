@@ -137,7 +137,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Antibodies:
+  - Antibodies: antibodies/definitions.md
     - AMPAR: antibodies/ampar.md
     - CASPR2: antibodies/caspr2.md
     - Homer-3: antibodies/homer3.md
