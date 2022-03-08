@@ -2,14 +2,7 @@
 hide:
   - tags
 tags:
-  - Seaizures
-  - Insomnia
-  - Irritability
-  - Psychosis
-  - Memory impairment
-  - Hypoventilation
-  - Disinhibition
-  - Ovarian tumour
+  - Multiple sclerosis
 ---
 
 !!! check
