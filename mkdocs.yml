@@ -73,6 +73,7 @@ plugins:
       minify_html: true
   - tags:
       tags_file: tags.md
+  - social
   - privacy
   
 # Customization
