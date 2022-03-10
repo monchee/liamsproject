@@ -1,17 +1,17 @@
 # Project information
 site_name: Liam's Project
-site_url: https://liam.immunowiki.com
+site_url: https://liamsproject.xyz
 site_author: Liam Beiglari
 site_description: >-
   Neuroimmune Serology Resource Centre
 
 # Repository
-# repo_name: ramonyuson/liamdocs
-# repo_url: https://github.com/ramonyuson/liamdocs/
+# repo_name: monchee/liamdocs
+# repo_url: https://github.com/monchee/liamsproject/
 # edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2021 Liam Beiglari
+copyright: Copyright &copy; 2022 Liam Beiglari
 
 # Configuration
 theme:
