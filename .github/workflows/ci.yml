@@ -16,7 +16,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git mkdocs-minify-plugin
+      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git mkdocs-minify-plugin Pillow cairosvg
       - run: mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
