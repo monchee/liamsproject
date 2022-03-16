@@ -33,8 +33,4 @@ Not applicable
 
 ## Next steps
 
-!!! done
-
-    Complete as of 09/03/2022.
-
 [^1]: Lanz, T.V., Brewer, R.C., Ho, P.P. et al. Clonally expanded B cells in multiple sclerosis bind EBV EBNA1 and GlialCAM. Nature (2022). 
