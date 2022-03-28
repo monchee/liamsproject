@@ -72,6 +72,7 @@ Thymoma in 20-50% of cases. (1) Risk of malignancy very low in other neurologica
 </div>
 
 Indirect immunofluoresence on rat brain
+
 In cases of negative above assays and strongly characteristic clinical features then live hippocampal neuronal assays could be considered if accessible (1) 
 { .annotate }
 
