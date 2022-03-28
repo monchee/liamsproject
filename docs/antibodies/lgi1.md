@@ -57,7 +57,7 @@ LGI1 is a secreted neuronal protein most strongly expressed in the mossy fibre C
 2. Probably don't need to include this point
 
 ### Associated neoplasia
-<10% associated with malignant thymoma and neuroendocrine tumours. Paraneoplastic cases are mainly observed in patients with Morvan syndrome and both serum LGI1 and CASPR2 antibodies
+<10% associated with malignant thymoma and neuroendocrine tumours. Paraneoplastic cases are mainly observed in patients with Morvan syndrome and both serum LGI1 and CASPR2 antibodies.
 
 ### Laboratory method
 <div class="grid" markdown>
