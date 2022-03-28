@@ -60,9 +60,18 @@ Thymoma in 20-50% of cases. (1) Risk of malignancy very low in other neurologica
 1. Particularly in cases of Morvan's syndrome and neuromyotonia. 
 
 ### Laboratory method
-"Cell based assay
+<div class="grid" markdown>
+
+:material-flask: Cell based assay
+{ .card }
+
+</div>
+
 Indirect immunofluoresence on rat brain
-In cases of negative above assays and strongly characteristic clinical features then live hippocampal neuronal assays could be considered if accessible (may need to have a list of labs here, or S Irani's lab if none other available)"
+In cases of negative above assays and strongly characteristic clinical features then live hippocampal neuronal assays could be considered if accessible (1) 
+{ .annotate }
+
+1. May need to have a list of labs here, or S Irani's lab if none other available
 
 ### Notes of performance characteristics
 Commercial CBA (Euroimmun) using CSF has a sensitivity of 66.7% and specificity of 100% for anti-CASPR2 antibodies.
