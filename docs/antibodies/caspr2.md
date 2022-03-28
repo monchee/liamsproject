@@ -84,7 +84,7 @@ Commercial CBA ([Euroimmun](https://www.euroimmun.com/)) using CSF has a sensiti
 
 ### Next steps
 !!! warning
-    Do not order with anti-VGKC antibodies due to low clinical yield of 'double negative anti-VGKC' results.
+    **Do not order** with anti-VGKC antibodies due to low clinical yield of 'double negative anti-VGKC' results.
 
 [^1]: Graus, Francesc, Alberto Vogrig, Sergio Muñiz-Castrillo, Jean-Christophe G. Antoine, Virginie Desestret, Divyanshu Dubey, Bruno Giometto, et al. “Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes.” Neurology - Neuroimmunology Neuroinflammation 8, no. 4 (July 2021): e1014. https://doi.org/10.1212/NXI.0000000000001014.
 [^2]: Michael, Sophia, Patrick Waters, and Sarosh R Irani. “Stop Testing for Autoantibodies to the VGKC-Complex: Only Request LGI1 and CASPR2.” Practical Neurology 20, no. 5 (October 2020): 377–84. https://doi.org/10.1136/practneurol-2019-002494.
