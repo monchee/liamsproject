@@ -49,6 +49,7 @@ LGI1 is a secreted neuronal protein most strongly expressed in the mossy fibre C
 - MRI abnormal
 - PET abnormal
 - CSF may be normal
+
 { .annotate }
 
 1. Predominantly complex partial 46%, simple partial 43%, and faciobrachial dystonic 34%
