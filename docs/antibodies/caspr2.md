@@ -26,6 +26,7 @@ Thymoma is present in 20-50% of cases. Anti-CASPR2 antibodies may coexist with a
 
 ### Mechanism of action
 CASPR2 is expressed throughout the central and peripheral nervous systems. 
+
 - **In the CNS**: it is expressed in the cerebellum, CA1 and CA3 hippocampal and pyramidal cells, olfactory bulb, and white matter tracts. 
 - **In the PNS**: it is found in the juxtaparanodes of myelinated axons. Anti-CASPR2 antibodies disrupt CASPR2 or internalise the VGKC complex. 
 - **At other times**: the antibody will disrupt CASPR2 interactions with neighbouring proteins. Some patients show reduced CMAP and SNAP amplitudes.
