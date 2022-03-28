@@ -19,14 +19,14 @@ tags:
 
 ## **Contactin associated protein 2**
 
-## Description
+### Description
 Anti-CASPR2 antibodies are of the IgG1 and IgG4 isotypes directed against a component of the VGKC in the central and peripheral nervous systems. They are more often associated with peripheral than central manifestations. 
 Thymoma is present in 20-50% of cases. Anti-CASPR2 antibodies may coexist with anti-LGI1 antibodies.
 
-## Mechanism of action
+### Mechanism of action
 CASPR2 is expressed throughout the central and peripheral nervous systems. In the CNS it is expressed in the cerebellum, CA1 and CA3 hippocampal and pyramidal cells, olfactory bulb, and white matter tracts. In the PNS it is found in the juxtaparanodes of myelinated axons. Anti-CASPR2 antibodies disrupt CASPR2 or internalise the VGKC complex. At other times the antibody will disrupt CASPR2 interactions with neighbouring proteins. Some patients show reduced CMAP and SNAP amplitudes.
 
-## Associated clinical features
+### Associated clinical features
 - Seizures in 49% (predominantly complex partial) 
 - Epileptiform EEG
 - Limbic encephalitis 
@@ -53,20 +53,20 @@ CASPR2 is expressed throughout the central and peripheral nervous systems. In th
 - PET abnormal
 - CSF may be normal
 
-## Associated neoplasia
+### Associated neoplasia
 Thymoma in 20-50% of cases. Particularly in cases of Morvan's syndrome and neuromyotonia. Risk of malignancy very low in other neurological syndromes associated with this autoantibody.
 
-## Laboratory method
+### Laboratory method
 "Cell based assay
 Indirect immunofluoresence on rat brain
 In cases of negative above assays and strongly characteristic clinical features then live hippocampal neuronal assays could be considered if accessible (may need to have a list of labs here, or S Irani's lab if none other available)"
 
-## Notes of performance characteristics
+### Notes of performance characteristics
 Commercial CBA (Euroimmun) using CSF has a sensitivity of 66.7% and specificity of 100% for anti-CASPR2 antibodies.
 
-## Grade
+### Grade
 
-## Next steps
+### Next steps
 !!! warning
     Do not order with anti-VGKC antibodies due to low clinical yield of 'double negative anti-VGKC' results.
 
