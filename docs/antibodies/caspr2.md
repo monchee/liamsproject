@@ -54,8 +54,8 @@ CASPR2 is expressed throughout the central and peripheral nervous systems. In th
 - CSF may be normal
 
 ### Associated neoplasia
-Thymoma in 20-50% of cases. (1) 
-Risk of malignancy very low in other neurological syndromes associated with this autoantibody.
+Thymoma in 20-50% of cases. (1) Risk of malignancy very low in other neurological syndromes associated with this autoantibody.
+{ .annotate }
 
 1. Particularly in cases of Morvan's syndrome and neuromyotonia. 
 
