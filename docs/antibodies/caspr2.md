@@ -18,7 +18,7 @@ tags:
 # CASPR2
 
 ## Antigen full name
-Contactin associated protein 2
+**Contactin associated protein 2**
 
 ## Description
 Anti-CASPR2 antibodies are of the IgG1 and IgG4 isotypes directed against a component of the VGKC in the central and peripheral nervous systems. They are more often associated with peripheral than central manifestations. Thymoma is present in 20-50% of cases. Anti-CASPR2 antibodies may coexist with anti-LGI1 antibodies.
