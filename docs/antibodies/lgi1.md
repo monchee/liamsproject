@@ -20,7 +20,6 @@ Anti-LGI1 antibodies may coexist with anti-CASPR2 antibodies.
 LGI1 is a secreted neuronal protein most strongly expressed in the mossy fibre CA43 layer of the hippocampus and cerebellum. It is a ligand to the the extracellular receptors ADAM22 and ADAM23 which are in turn linked to the voltage gated potassium channel on the cell surface of neurones. IgG anti-LGI1 antibodies disrupt this interaction and trigger internalisation of the VGKC complex. This results in hyperexcitability of the neurone leading to the disease state.
 
 ### Associated clinical features
-```
 - Seizures in 80% (1) with epileptiform EEG. Seizures often begin prior to the onset of cognitive impairment as a result of limbic encephalitis. 
 - Cognitive impairment
 - Abnormal neuropsychological examination (2)
@@ -50,7 +49,7 @@ LGI1 is a secreted neuronal protein most strongly expressed in the mossy fibre C
 - MRI abnormal
 - PET abnormal
 - CSF may be normal
-```
+{ .annotate }
 
 1. Predominantly complex partial 46%, simple partial 43%, and faciobrachial dystonic 34%
 2. Probably don't need to include this point
