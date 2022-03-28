@@ -17,7 +17,7 @@ tags:
 
 # CASPR2
 
-# **Contactin associated protein 2**
+## **Contactin associated protein 2**
 
 ## Description
 Anti-CASPR2 antibodies are of the IgG1 and IgG4 isotypes directed against a component of the VGKC in the central and peripheral nervous systems. They are more often associated with peripheral than central manifestations. 
