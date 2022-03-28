@@ -74,7 +74,7 @@ In cases of negative above assays and strongly characteristic clinical features 
 1. May need to have a list of labs here, or S Irani's lab if none other available
 
 ### Notes of performance characteristics
-Commercial CBA (Euroimmun) using CSF has a sensitivity of 66.7% and specificity of 100% for anti-CASPR2 antibodies.
+Commercial CBA ([Euroimmun](https://www.euroimmun.com/)) using CSF has a sensitivity of 66.7% and specificity of 100% for anti-CASPR2 antibodies.
 
 ### Grade
 
