@@ -2,7 +2,9 @@
 hide:
   - tags
 tags:
-  - 
+  - Seizures
+  - Cognitive impairment
+  - Abnormal neuropsychological exam
 ---
 
 # LGI1
@@ -18,7 +20,11 @@ Anti-LGI1 antibodies may coexist with anti-CASPR2 antibodies.
 LGI1 is a secreted neuronal protein most strongly expressed in the mossy fibre CA43 layer of the hippocampus and cerebellum. It is a ligand to the the extracellular receptors ADAM22 and ADAM23 which are in turn linked to the voltage gated potassium channel on the cell surface of neurones. IgG anti-LGI1 antibodies disrupt this interaction and trigger internalisation of the VGKC complex. This results in hyperexcitability of the neurone leading to the disease state.
 
 ### Associated clinical features
-Seizures in 80% (predominantly complex partial 46%, simple partial 43%, and faciobrachial dystonic 34%) with epileptiform EEG. Seizures often begin prior to the onset of cognitive impairment as a result of limbic encephalitis. Cognitive impairment, abnormal neuropsychological examination (probably don't need to include this point), paroxysmal dizziness spells, insomnia, rem sleep behaviour disorder, abnormal polysomnogram, parkinsonism, myoclonus, personality change, depression, hallucinations, paranoia, anxiety, neuropathic pain, hyperhidrosis, hypohidrosis, hyponatraemia, neuromyotonia, Morvan's syndrome. 2:1 male to female. EMG hyperexcitability, EMG neuropathy, cramps, sensory and motor symptoms, nerve conduction abnormalities, tilt test positive. MRI abnormal, PET abnormal, CSF may be normal.
+Seizures in 80% (1) with epileptiform EEG. Seizures often begin prior to the onset of cognitive impairment as a result of limbic encephalitis. 
+Cognitive impairment, abnormal neuropsychological examination (probably don't need to include this point), paroxysmal dizziness spells, insomnia, rem sleep behaviour disorder, abnormal polysomnogram, parkinsonism, myoclonus, personality change, depression, hallucinations, paranoia, anxiety, neuropathic pain, hyperhidrosis, hypohidrosis, hyponatraemia, neuromyotonia, Morvan's syndrome. 2:1 male to female. EMG hyperexcitability, EMG neuropathy, cramps, sensory and motor symptoms, nerve conduction abnormalities, tilt test positive. MRI abnormal, PET abnormal, CSF may be normal.
+{ .annotate }
+
+1. (predominantly complex partial 46%, simple partial 43%, and faciobrachial dystonic 34%)
 
 ### Associated neoplasia
 <10% associated with malignant thymoma and neuroendocrine tumours. Paraneoplastic cases are mainly observed in patients with Morvan syndrome and both serum LGI1 and CASPR2 antibodies
