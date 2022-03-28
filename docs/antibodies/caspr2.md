@@ -27,7 +27,31 @@ Anti-CASPR2 antibodies are of the IgG1 and IgG4 isotypes directed against a comp
 CASPR2 is expressed throughout the central and peripheral nervous systems. In the CNS it is expressed in the cerebellum, CA1 and CA3 hippocampal and pyramidal cells, olfactory bulb, and white matter tracts. In the PNS it is found in the juxtaparanodes of myelinated axons. Anti-CASPR2 antibodies disrupt CASPR2 or internalise the VGKC complex. At other times the antibody will disrupt CASPR2 interactions with neighbouring proteins. Some patients show reduced CMAP and SNAP amplitudes.
 
 ## Associated clinical features
-Seizures in 49% (predominantly complex partial), epileptiform EEG, limbic encephalitis, cognitive decline, abnormal neuropsychological examination, personality change, hallucinations, depression, insomnia, rem sleep behaivour disorder, abnormal polysomnogram, hyponatraemia in 7%, Morvan's syndrome, neuropathic pain, sweat abnormalities. 8:1 male to female. EMG hyperexcitability, EMG neuropathy, cramps, sensory and motor symptoms, nerve conduction abnormalities, tilt test positive. MRI abnormal, PET abnormal, CSF may be normal.
+- Seizures in 49% (predominantly complex partial) 
+- Epileptiform EEG
+- Limbic encephalitis 
+- Cognitive decline 
+- Abnormal neuropsychological examination 
+- Personality change
+- Hallucinations
+- Depression
+- Insomnia
+- REM sleep behaivour disorder
+- Abnormal polysomnogram
+- Hyponatraemia in 7%
+- Morvan's syndrome
+- Neuropathic pain
+- Sweat abnormalities
+- 8:1 male to female
+- EMG hyperexcitability
+- EMG neuropathy
+- Cramps
+- Sensory and motor symptoms
+- Nerve conduction abnormalities
+- Tilt test positive
+- MRI abnormal
+- PET abnormal
+- CSF may be normal
 
 ## Associated neoplasia
 Thymoma in 20-50% of cases. Particularly in cases of Morvan's syndrome and neuromyotonia. Risk of malignancy very low in other neurological syndromes associated with this autoantibody.
@@ -43,7 +67,7 @@ Commercial CBA (Euroimmun) using CSF has a sensitivity of 66.7% and specificity 
 ## Grade
 
 ## Next steps
-!!! info
+!!! warning
     Do not order with anti-VGKC antibodies due to low clinical yield of 'double negative anti-VGKC' results.
 
 [^1]: "Graus, Francesc, Alberto Vogrig, Sergio Muñiz-Castrillo, Jean-Christophe G. Antoine, Virginie Desestret, Divyanshu Dubey, Bruno Giometto, et al. “Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes.” Neurology - Neuroimmunology Neuroinflammation 8, no. 4 (July 2021): e1014. https://doi.org/10.1212/NXI.0000000000001014.
