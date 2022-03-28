@@ -4,7 +4,7 @@ hide:
 tags:
   - Seizures
   - Cognitive impairment
-  - Abnormal neuropsychological exam
+  - Abnormal neuropsychological
 ---
 
 # LGI1
