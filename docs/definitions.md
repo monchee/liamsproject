@@ -1,7 +1,7 @@
 ---
 title: Usage Guide
 description: Field definitions
-icon: material-format-list-bulleted
+icon: material/format-list-bulleted
 ---
 
 # Field Definitions
