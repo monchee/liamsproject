@@ -1,18 +1,34 @@
 ---
+title: CASPR2
+description: Contactin associated protein 2
 hide:
   - tags
 tags:
   - Seizures
-  - Limbic encephalitis
-  - Cognitive decline
+  - Epileptiform EEG
+  - Limbic encephalitis 
+  - Cognitive decline 
+  - Abnormal neuropsychological examination 
   - Personality change
   - Hallucinations
   - Depression
   - Insomnia
-  - Sleep behaviour disorder
+  - REM sleep behaivour disorder
+  - Abnormal polysomnogram
+  - Hyponatraemia in 7%
+  - Morvan's syndrome
   - Neuropathic pain
   - Sweat abnormalities
+  - 8:1 male to female
+  - EMG hyperexcitability
+  - EMG neuropathy
   - Cramps
+  - Sensory and motor symptoms
+  - Nerve conduction abnormalities
+  - Tilt test positive
+  - MRI abnormal
+  - PET abnormal
+  - CSF may be normal
 ---
 
 # CASPR2
