@@ -15,13 +15,27 @@ tags:
 Autoantibody usually of the IgG1 isotype directed against the GABAb1 subunit of the GABAb receptor. The dominant clinical presentation is limbic encephalitis with seizures. More than half of patients either already have detectable SCLC or will develop it following diagnosis. Serum more sensitive than CSF on commercial CBA however CSF is more sensitive on live assays.
 
 ### Mechanism of action
-GABAb receptors are G protein coupled receptors made up of the GABAb1 and GABAb2 subunits. They are most highly expressed in the hippocampus, thalamus, and cerebellum but may be found throughout the CNS. GABAb receptors mediate presynaptic inhibition, attenuate presynaptic firing frequencies, and indue slow inhibitory post synaptic potential. The anti-GABAb autoantibodies target the GABAb1 subunit which is necessary for GABA binding and receptor function. Thus the presence of these autoantibodies will impair the action of GABA on its receptor and reduction of pre and post synaptic inhibition.
+GABAb receptors are G protein coupled receptors made up of the GABAb1 and GABAb2 subunits. They are most highly expressed in the hippocampus, thalamus, and cerebellum but may be found throughout the CNS. GABAb receptors mediate presynaptic inhibition, attenuate presynaptic firing frequencies, and indue slow inhibitory post synaptic potential. 
+
+The anti-GABAb autoantibodies target the GABAb1 subunit which is necessary for GABA binding and receptor function. Thus the presence of these autoantibodies will impair the action of GABA on its receptor and reduction of pre and post synaptic inhibition.
 
 ### Associated clinical features
-Limbic encephalitis manifesting as seizures in 96.6% (almost all patients will experience generalised seizures but may have other phenotypes: 15% focal to bilateral tonic clonic, 19% focal with impaired awareness, and 12% focal), cognitive impairment in 81%, psychiatric disturbance in 77.6%, and disturbed level of conscoiusness in 55.2%. Memory loss, confusion. EEG abnormal in 60% (Epileptiform changes and general slowing), MRI abnormal in 63% (showing limbic encephalitis), CSF abnormal in >74%(pleocytosis and/or elevated protein). Rapidly progressive dementia. Rarely opsoclonus myoclonus syndrome or gait ataxia.
+<div class="annotate" markdown>
+- Limbic encephalitis manifesting as seizures in 96.6% (1) 
+- Cognitive impairment in 81%
+- Psychiatric disturbance in 77.6%, and disturbed level of conscoiusness in 55.2%
+- Memory loss, confusion
+- EEG abnormal in 60% (epileptiform changes and general slowing)
+- MRI abnormal in 63% (showing limbic encephalitis)
+- CSF abnormal in >74% (pleocytosis and/or elevated protein)
+- Rapidly progressive dementia
+- Rarely opsoclonus myoclonus syndrome or gait ataxia
+</div>
+
+1. Almost all patients will experience generalised seizures but may have other phenotypes: 15% focal to bilateral tonic clonic, 19% focal with impaired awareness, and 12% focal
 
 ### Associated neoplasia
->50% associated with malignancy, most often SCLC which may not be present at time of diagnosis.
+More than 50% associated with malignancy, most often SCLC which may not be present at time of diagnosis.
 
 ### Laboratory method
 <div class="grid" markdown>
