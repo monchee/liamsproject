@@ -3,7 +3,8 @@ title: Usage Guide
 description: Field definitions
 ---
 
-**Definitions**
+# Field Definitions
+
 Breakdown of each section when navigating through the site.
 
 ##  Description	
