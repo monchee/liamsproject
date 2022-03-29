@@ -4,7 +4,33 @@ hide:
 tags:
   - Seizures
   - Cognitive impairment
-  - Abnormal neuropsychological
+  - Abnormal neuropsychological exam
+  - Paroxysmal dizziness spells
+  - Insomnia
+  - REM sleep behaviour disorder
+  - Abnormal polysomnogram
+  - Parkinsonism
+  - Myoclonus
+  - Personality change
+  - Depression
+  - Hallucinations
+  - Paranoia
+  - Anxiety
+  - Neuropathic pain
+  - Hyperhidrosis, hypohidrosis
+  - Hyponatraemia
+  - Neuromyotonia
+  - Morvan's syndrome
+  - 2:1 male to female. 
+  - EMG hyperexcitability
+  - EMG neuropathy
+  - Cramps
+  - Sensory and motor symptoms
+  - Nerve conduction abnormalities
+  - Tilt test positive
+  - MRI abnormal
+  - PET abnormal
+  - CSF may be normal
 ---
 
 # LGI1
