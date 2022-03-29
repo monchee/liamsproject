@@ -4,7 +4,18 @@ description: Gamma-aminobutyric acid-B receptor
 hide:
   - tags
 tags:
+  - Limbic encephalitis
   - Cognitive impairment
+  - Seizures
+  - Psychiatric disturbance
+  - Memory loss
+  - Confusion
+  - EEG abnormal
+  - MRI abnormal
+  - CSF abnormal
+  - Dementia
+  - Myoclonus syndrome
+  - Gait ataxia
 ---
 
 # GABAbR
