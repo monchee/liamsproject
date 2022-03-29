@@ -54,7 +54,7 @@ Anti-AMPAR antibodies decrease the number of AMPARs expressed at the cell surfac
 - Oligoclonal bands in 8%.
 
 ### Associated neoplasia
->50% associated with malignancy, most commonly thymoma, SCLC, breast cancer, and ovarian cancer.
+More than 50% associated with malignancy, most commonly thymoma, SCLC, breast cancer, and ovarian cancer.
 
 ### Laboratory method
 <div class="grid" markdown>
