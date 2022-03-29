@@ -142,15 +142,10 @@ nav:
   - Home: index.md
   - Antibodies:
     - Field Definitions: antibodies/definitions.md
-    - AMPAR: antibodies/ampar.md
+    - LGI1: antibodies/lgi1.md
     - CASPR2: antibodies/caspr2.md
+    - AMPAR1/2: antibodies/ampar.md
     - GlialCAM: antibodies/glialcam.md
-    - Homer-3: antibodies/homer3.md
-    - Hu: antibodies/hu.md
-    - Lgi1: antibodies/lgi1.md
-    - MOGAD: antibodies/mog.md
-    - NMDAR: antibodies/nmdar.md
-    - DNA: antibodies/dna.md
   - Clinical Features: tags.md
   - About: about.md
   - Misc:
