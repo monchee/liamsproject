@@ -78,9 +78,11 @@ Live rat hippocampal neuronal assay
 ### Grade
 
 ### Next steps
-"85% will respond to immunotherapy. Median improvement in mRS to 2 after immunotherapy. Seizure freedom may be achieved by median of 6 days of immunotherapy and usually occurs earlier than cognitive symptoms which will improve by median of 35 days. Detailed data on relapse is not available. Median survival is 17 months and is not different for those with tumour.
+85% will respond to immunotherapy. Median improvement in mRS to 2 after immunotherapy. 
 
-The presence of KCTD16 antibodies increases the probability of a paraneopastic origin."
+Seizure freedom may be achieved by median of 6 days of immunotherapy and usually occurs earlier than cognitive symptoms which will improve by median of 35 days. Detailed data on relapse is not available. Median survival is 17 months and is not different for those with tumour.
+
+The presence of KCTD16 antibodies increases the probability of a paraneopastic origin.
 
 [^1]: Lancaster, Eric, Meizan Lai, Xiaoyu Peng, Ethan Hughes, Radu Constantinescu, Jeffrey Raizer, Daniel Friedman, et al. “Antibodies to the GABAB Receptor in Limbic Encephalitis with Seizures: Case Series and Characterisation of the Antigen.” Lancet Neurology 9, no. 1 (January 2010): 67–76. https://doi.org/10.1016/S1474-4422(09)70324-2.
 [^2]: Graus, Francesc, Alberto Vogrig, Sergio Muñiz-Castrillo, Jean-Christophe G. Antoine, Virginie Desestret, Divyanshu Dubey, Bruno Giometto, et al. “Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes.” Neurology - Neuroimmunology Neuroinflammation 8, no. 4 (July 2021): e1014. https://doi.org/10.1212/NXI.0000000000001014.
