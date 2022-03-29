@@ -1,8 +1,10 @@
 ---
+title: AMPAR1/AMPAR2
+description: Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1
 hide:
   - tags
 tags:
-  - 
+  - Cognitive impairment
 ---
 
 # AMPAR1/AMPAR2
