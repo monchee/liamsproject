@@ -5,6 +5,21 @@ hide:
   - tags
 tags:
   - Cognitive impairment
+  - Psychiatric disorers
+  - Altered level of consciousness
+  - Dyskinesia
+  - Seizure
+  - Speech disorder
+  - Insomnia
+  - Autonomic dysfunction 
+  - Dysarthria
+  - Hyponatraemia
+  - MRI abnormal
+  - FDG18-PET abnormal
+  - EEG epileptiform
+  - Elevated WCC
+  - Elevated protein
+  - Oligoclonal bands
 ---
 
 # AMPAR1/AMPAR2
