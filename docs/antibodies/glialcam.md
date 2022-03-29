@@ -1,4 +1,6 @@
 ---
+title: GlialCAM
+description: Glial cell adhesion molecule
 hide:
   - tags
 tags:
@@ -7,7 +9,7 @@ tags:
 
 # GlialCAM
 
-## Glial cell adhesion molecule
+## **Glial cell adhesion molecule**
 
 ### Description
 GlialCAM is a potential autoantigen of interest in the pathogenesis of mulitiple sclerosis identified through cross reactivity with the EBV-related antigen EBNA-1 in the CNS. B cell receptor sequencing analysis from the MS CNS revealed an autoantibody binding  EBNA1 as well as GlialCAM with evidence of somatic hypermutation within the CNS. Examination of other cohorts of MS confirmed the presence of anti-GlialCAM antibodies. Mouse models suggest a contribution to CNS immunopathology. These findings suggest molecular mimicry between EBNA1 and host GlialCAM contributes to the development of MS.
