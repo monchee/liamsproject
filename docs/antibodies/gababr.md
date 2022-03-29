@@ -49,10 +49,31 @@ Indirect Immunohistochemistry looking for staining in the cortex and subcortical
 Live rat hippocampal neuronal assay
 
 ### Notes of performance characteristics
-"Commercial fixed CBA: CSF sensitivity 84%, serum sensitivity 96%, serum specificity 99.7%.
-Addition of KCTD16 to an in house fixed CBA will improve  sensitivity of in house fixed CBA to that of the commercial fixed CBA and can identify higher titres in CSF and serum. Specificity was unaffected in this study.
-Live CBA: CSF sensitivity 100%, serum sensitivity 93%.
-Live neuron CSF sensitivity 100%, serum sensitivity 96.5%."
+<div class="grid cards" markdown>
+  
+-   __Commercial fixed CBA__
+
+    ---
+
+    * CSF sensitivity 84%
+    * Serum sensitivity 96%
+    * Serum specificity 99.7%
+
+-   __Live CBA__
+    
+    ---
+  
+    * CSF sensitivity 100%
+    * Serum sensitivity 93%
+  
+-   __Live neuron__
+  
+    ---
+  
+    * CSF sensitivity 100%
+    * Serum sensitivity 96.5%
+  
+</div>
 
 ### Grade
 
