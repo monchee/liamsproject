@@ -1,4 +1,6 @@
 ---
+title: LGI1
+description: Leucine-rich glioma-inactivated protein 1
 hide:
   - tags
 tags:
