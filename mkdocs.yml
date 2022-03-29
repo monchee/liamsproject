@@ -141,7 +141,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Antibodies:
-    - Field Definitions: antibodies/definitions.md
+    - Field Definitions: definitions.md
     - LGI1: antibodies/lgi1.md
     - CASPR2: antibodies/caspr2.md
     - AMPAR1/2: antibodies/ampar.md
