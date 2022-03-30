@@ -74,7 +74,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - social
-  - git-revision-date
+  - git-revision-date-localized
   - privacy
   
 # Customization
