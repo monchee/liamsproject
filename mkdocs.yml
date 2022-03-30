@@ -75,6 +75,7 @@ plugins:
       tags_file: tags.md
   - social
   - git-revision-date-localized
+      type: timeago
   - privacy
   
 # Customization
