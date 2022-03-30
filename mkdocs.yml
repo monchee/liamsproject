@@ -76,6 +76,10 @@ plugins:
   - social
   - git-revision-date-localized:
       type: timeago
+      enable_creation_date: true
+      exclude:
+        - index.md
+        - tags.md
   - privacy
   
 # Customization
