@@ -1,5 +1,4 @@
 /* site title on bold */
-
 .md-header__topic:first-child {
   font-weight: 700;
 }
@@ -12,7 +11,7 @@
 
 .md-typeset h2 {
     font-size: 2em;
-    margin: 0 0 2.5em 0;
+    margin: -1.75em 0 2.64em;
 }
 
 /* progress bar */
