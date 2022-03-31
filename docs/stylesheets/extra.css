@@ -5,9 +5,7 @@
 
 /* bigger headlines */
 .md-typeset h1 {
-    color: var(--md-default-fg-color--light);
     font-size: 3.5em;
-    margin: 0 0 -1em
 }
 
 .md-typeset h2 {
