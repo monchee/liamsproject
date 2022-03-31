@@ -22,9 +22,9 @@ tags:
   - Oligoclonal bands
 ---
 
-# AMPAR1/AMPAR2
+# AMPAR1 / AMPAR2
 
-## **Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1**
+## **Alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1 / 2**
 
 ### Description
 Anti-AMPAR antibodies are associated with a CNS syndrome dominated by cognitive impairment and psychiatric symptoms with secondary features of motor dysfunction, seizures, speech disorders, and dysautonomia. 
