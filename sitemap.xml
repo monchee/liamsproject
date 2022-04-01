@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://liamsproject.xyz/test-progressbars/</loc>
+         <lastmod>2022-04-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://liamsproject.xyz/antibodies/ampar/</loc>
          <lastmod>2022-04-01</lastmod>
          <changefreq>daily</changefreq>
@@ -52,11 +57,6 @@
     </url>
     <url>
          <loc>https://liamsproject.xyz/antibodies/lgi1/</loc>
-         <lastmod>2022-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://liamsproject.xyz/antibodies/test/</loc>
          <lastmod>2022-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
