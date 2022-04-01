@@ -24,7 +24,6 @@ tags:
   - Hyponatraemia
   - Neuromyotonia
   - Morvan's syndrome
-  - 2:1 male to female. 
   - EMG hyperexcitability
   - EMG neuropathy
   - Cramps
