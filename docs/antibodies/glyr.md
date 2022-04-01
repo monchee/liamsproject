@@ -12,7 +12,7 @@ tags:
 ## **Glycine receptor**
 
 ### Other names
-GlyRA1
+**GlyRA1**
 
 ### Description
 The Anti-GlyR antibody is of the IgG1 or IgG3 isotype directed against the glycine receptor in the CNS. It is most often associated with stiff person spectrum disorders or brain and spinal disorders however it has also been seen in movement disorders, autoimmune epilepsy, and in patients with persistent visual disturbances. May be found alongside other autoantibodies in 46%, most commonly anti-GAD antibodies. Malignancy is present in <10% of cases and is most often thymoma or Hodgkin's lymphoma. CBA is the available test and it is recommended that paired serum and CSF samples are sent for analysis.
