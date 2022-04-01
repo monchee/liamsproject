@@ -14,7 +14,7 @@ tags:
   - MRI abnormal
   - CSF abnormal
   - Dementia
-  - Myoclonus syndrome
+  - Myoclonus
   - Gait ataxia
 ---
 
