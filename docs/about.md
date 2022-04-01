@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Liam's Project
 **Neuroimmune Serology Resource Centre**
 
