@@ -19,7 +19,8 @@ tags:
   - Paranoia
   - Anxiety
   - Neuropathic pain
-  - Hyperhidrosis, hypohidrosis
+  - Hyperhidrosis
+  - Hypohidrosis
   - Hyponatraemia
   - Neuromyotonia
   - Morvan's syndrome
