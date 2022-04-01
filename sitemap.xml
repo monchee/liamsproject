@@ -21,16 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liamsproject.xyz/antibodies/GABAaR/</loc>
-         <lastmod>2022-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://liamsproject.xyz/antibodies/GABAbR/</loc>
-         <lastmod>2022-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://liamsproject.xyz/antibodies/ampar/</loc>
          <lastmod>2022-04-01</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +32,11 @@
     </url>
     <url>
          <loc>https://liamsproject.xyz/antibodies/gabaar/</loc>
+         <lastmod>2022-04-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://liamsproject.xyz/antibodies/gababr/</loc>
          <lastmod>2022-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
