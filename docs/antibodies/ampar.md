@@ -8,7 +8,7 @@ tags:
   - Psychiatric disorders
   - Altered level of consciousness
   - Dyskinesia
-  - Seizure
+  - Seizures
   - Speech disorder
   - Insomnia
   - Autonomic dysfunction 
