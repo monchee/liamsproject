@@ -15,7 +15,7 @@ tags:
   - Insomnia
   - REM sleep behaviour disorder
   - Abnormal polysomnogram
-  - Hyponatraemia in 7%
+  - Hyponatraemia
   - Morvan's syndrome
   - Neuropathic pain
   - Sweat abnormalities
