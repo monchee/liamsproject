@@ -19,7 +19,6 @@ tags:
   - Morvan's syndrome
   - Neuropathic pain
   - Sweat abnormalities
-  - 8:1 male to female
   - EMG hyperexcitability
   - EMG neuropathy
   - Cramps
