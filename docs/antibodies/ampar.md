@@ -5,7 +5,7 @@ hide:
   - tags
 tags:
   - Cognitive impairment
-  - Psychiatric disorers
+  - Psychiatric disorders
   - Altered level of consciousness
   - Dyskinesia
   - Seizure
