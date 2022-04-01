@@ -102,11 +102,11 @@ CBA expressing alpha 1 subunit of glycine receptor although subsequent CBA have 
 Imunoprecipitation in initial paper for quantification
 
 ### Notes of performance characteristics
-- 12-15% of patients with classic SPS and high titre (>20,000 units) anti-GAD antibodies will have concomitant anti-GlyR antibodies.
+- 12-15% of patients with classic SPS and high titre {>>(>20,000 units)<<} anti-GAD antibodies will have concomitant anti-GlyR antibodies.
 - 10% of patients with anti-GAD antibodies may have concomitant anti-GlyR antibodies.
 - There is no correlation between anti-GAD titres and anti-GlyR titres.
 - CSF more sensitive than serum. Patients with positive serum and CSF will not have clinically different disease to those with CSF positivity alone.
-- Recommended to pair serum and CSF samples.
+- {==Recommended to pair serum and CSF samples.==}
 - While CSF titres are generally lower than serum titres of the antibody there is intrathecal synthesis in many patients.
 
 ### Grade
