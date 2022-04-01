@@ -25,7 +25,7 @@ tags:
   - Cognitive impairment
   - Encephalopathy
   - Seizures
-  - Sensory symptoms
+  - Sensory and motor symptoms
   - Pain
   - Respiratory failure
   - Limbic encephalitis
