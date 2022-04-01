@@ -157,7 +157,7 @@ nav:
   - Clinical Features: tags.md
   - About: about.md
   - Misc:
-    - Test: antibodies/test.md
+    - Test: test-progressbars.md
     # - Installation: getting-started.md
     # - Creating your site: creating-your-site.md
     # - Publishing your site: publishing-your-site.md
