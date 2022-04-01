@@ -4,7 +4,21 @@ description: Gamma-aminobutyric acid-A receptor
 hide:
   - tags
 tags:
-  - Limbic encephalitis
+  - Seizures
+  - Cognitive decline
+  - Decreased level of consciousness
+  - Encephalopathy
+  - Psychiatric symptoms
+  - Movement disorder
+  - Dysutonomia
+  - Fever
+  - Autoimmune conditions
+  - MRI abnormal
+  - EEG abnormal
+  - CSF abnormal 
+  - Pleocytosis
+  - Elevated protein
+  - Oligoclonal bands
 ---
 
 # GABAbR
