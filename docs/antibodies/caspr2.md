@@ -13,7 +13,7 @@ tags:
   - Hallucinations
   - Depression
   - Insomnia
-  - REM sleep behaivour disorder
+  - REM sleep behaviour disorder
   - Abnormal polysomnogram
   - Hyponatraemia in 7%
   - Morvan's syndrome
