@@ -5,7 +5,7 @@ hide:
   - tags
 tags:
   - Seizures
-  - Epileptiform EEG
+  - EEG epileptiform
   - Limbic encephalitis 
   - Cognitive decline 
   - Abnormal neuropsychological examination 
