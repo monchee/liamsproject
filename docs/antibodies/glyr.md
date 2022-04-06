@@ -106,7 +106,7 @@ Imunoprecipitation in initial paper for quantification
 - 10% of patients with anti-GAD antibodies may have concomitant anti-GlyR antibodies.
 - There is no correlation between anti-GAD titres and anti-GlyR titres.
 - CSF more sensitive than serum. Patients with positive serum and CSF will not have clinically different disease to those with CSF positivity alone.
-- {==Recommended to pair serum and CSF samples.==}
+- ==Recommended to pair serum and CSF samples.==
 - While CSF titres are generally lower than serum titres of the antibody there is intrathecal synthesis in many patients.
 
 ### Grade
