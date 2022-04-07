@@ -21,7 +21,7 @@ tags:
   - Oligoclonal bands
 ---
 
-# GABAbR
+# GABAaR
 
 ## **Gamma-aminobutyric acid-A receptor**
 
