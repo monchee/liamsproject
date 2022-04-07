@@ -32,8 +32,7 @@ Other phenotypes included limbic encephalitis (3), encephalopathy with/without s
 
 ### Associated neoplasia
 !!! danger "High risk"
-
-In an initial series of 22 patients,  18 (82%) had cancer:
+    In an initial series of 22 patients,  18 (82%) had cancer:
 
 - Neuroendocrine carcinomas (9)
   * Pancreatic (3)
