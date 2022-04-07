@@ -23,7 +23,7 @@ tags:
 TRIM46-IgG is newly described biomarker of a range of paraneoplastic CNS disorders  including cerebellar syndromes, encephalopathy and seizures, limbic encephalitis, brainstem encephalitis, myelopathy, parkinsonism/dystonia.
 
 ### Mechanism of action
-Paraneoplastic syndromes
+Paraneoplastic syndromes.
 
 ### Associated clinical features
 In an initial series of 22 patients subacute cerebellar syndrome (6 isolated; 9 with CNS accompaniments: encephalopathy (3), brainstem signs (2), myelopathy (2), parkinsonism (1)). 
