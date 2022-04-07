@@ -5,6 +5,14 @@ hide:
   - tags
 tags:
   - Paraneoplastic syndromes
+  - Cerebellar syndromes
+  - Encephalopathy
+  - Seizures
+  - Limbic encephalitis
+  - Brainstem encephalitis
+  - Myelopathy
+  - Parkinsonism
+  - Dystonia
 ---
 
 # TRIM46
@@ -18,16 +26,38 @@ TRIM46-IgG is newly described biomarker of a range of paraneoplastic CNS disorde
 Paraneoplastic syndromes
 
 ### Associated clinical features
-In an initial series of 22 patients subacute cerebellar syndrome (six isolated; nine with CNS accompaniments: encephalopathy (three), brainstem signs (two), myelopathy (two), parkinsonism (one)). Other phenotypes included limbic encephalitis (three), encephalopathy with/without seizures (two), myelopathy (two). 
+In an initial series of 22 patients subacute cerebellar syndrome (6 isolated; 9 with CNS accompaniments: encephalopathy (3), brainstem signs (2), myelopathy (2), parkinsonism (1)). 
+
+Other phenotypes included limbic encephalitis (3), encephalopathy with/without seizures (2), myelopathy (2). 
 
 ### Associated neoplasia
-HIGH RISK: In an initial series of 22 patients,  18 (82%) had cancer: neuroendocrine carcinomas (9; pancreatic (3), small-cell lung (4), oesophagus (1), endometrium (1)), adenocarcinomas (6; lung (2), ovarian (2), endometrial (1), breast (1)), sarcoma (2) and gastrointestinal tumour (1). Neurological symptoms in three patients followed immune checkpoint inhibitor (ICI) administration. See reference
+!!! danger "High risk"
+
+In an initial series of 22 patients,  18 (82%) had cancer:
+
+- Neuroendocrine carcinomas (9)
+  * Pancreatic (3)
+  * Small-cell lung (4)
+  * Oesophagus (1)
+  * Endometrium (1)
+- Adenocarcinomas (6)
+  * Lung (2)
+  * Ovarian (2)
+  * Endometrial (1)
+  * Breast (1)
+  * Sarcoma (2)
+  * Gastrointestinal tumour (1)
+
+Neurological symptoms in three patients followed immune checkpoint inhibitor (ICI) administration. 
+
+*See reference.*[^1]
 
 ### Laboratory method
 <div class="grid" markdown>
 
-:material-flask: Immunohistochemistry screening, western blotting and cell-based assay
-{ .card }
+- :material-flask: Immunohistochemistry screening, 
+- :material-eyedropper: Western blotting 
+- :material-test-tube: Cell-based assay
 
 </div>
 
