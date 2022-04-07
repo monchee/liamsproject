@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://liamsproject.xyz/antibodies/sox-1/</loc>
+         <lastmod>2022-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://liamsproject.xyz/tags/</loc>
          <lastmod>2022-04-07</lastmod>
          <changefreq>daily</changefreq>
