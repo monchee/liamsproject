@@ -7,7 +7,7 @@ tags:
   - Lambert-Eaton Myasthenic Syndrome
   - Cerebellar degeneration
   - Limbic encephalitis
-  - Peripheral neuropathy.
+  - Peripheral neuropathy
 ---
 
 # SOX-1
@@ -25,17 +25,17 @@ SOX-1 was first identified as the antigen recognized by [anti-glial nuclear anti
 ### Mechanism of action
 Onconeuronal antibodies usually target intracellular antigens that are expressed in both neuronal tissues and cancer cells. They are generally not directly pathogenic. 
 
-Tissue injury tends to arise from a parallel cytotoxic T cell response, which results in irreversible neuronal damage and cell death, corresponding to guarded responses to current immunosuppressive approaches.
+Tissue injury tends to arise from a parallel cytotoxic T-cell response, which results in irreversible neuronal damage and cell death, corresponding to guarded responses to current immunosuppressive approaches.
 
 ### Associated clinical features
 - Lambert-Eaton Myasthenic Syndrome
 - Cerebellar degeneration
 - Limbic encephalitis
-- Peripheral neuropathy.
+- Peripheral neuropathy
 
 ### Associated neoplasia
 !!! error "High risk"
-    -  >80% of cases of Anti-SOX-1 antibody will have concomitant small cell lung cancer. 
+    - '>'80% of cases of Anti-SOX-1 antibody will have concomitant small cell lung cancer. 
     - 4% have non small cell lung cancer. 
     - 1.7% have other malignancies. 
 
@@ -55,7 +55,7 @@ Commercial line-blot assays may fail to identify 25% of the cases; cell-based as
 ### Grade
 
 ### Next steps
-!!! warning ""
+!!! error ""
     High risk for malignancy, investigate promptly for lung cancer.
 
 [^1]: Graus, Francesc, Alberto Vogrig, Sergio Muñiz-Castrillo, Jean-Christophe G. Antoine, Virginie Desestret, Divyanshu Dubey, Bruno Giometto, et al. “Updated Diagnostic Criteria for Paraneoplastic Neurologic Syndromes.” Neurology - Neuroimmunology Neuroinflammation 8, no. 4 (July 2021): e1014. 
