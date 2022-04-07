@@ -55,7 +55,7 @@ Neurological symptoms in three patients followed immune checkpoint inhibitor (IC
 *See reference.*[^1]
 
 ### Laboratory method
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 
 - :material-flask: Immunohistochemistry screening, 
 - :material-eyedropper: Western blotting 
