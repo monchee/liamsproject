@@ -17,6 +17,8 @@ tags:
 ### Description
 [SOX-1](/antibodies/sox-1/) was first identified as the antigen recognized by anti-glial nuclear antibodies (AGNA) which were characterized by immunohistochemistry showing a characteristic pattern of reactivity with the nuclei of Bergmann glia cells. 
 
+### More information
+
 [See Sox-1 for more information :fontawesome-solid-link:](/antibodies/sox-1/){ .md-button .md-button--primary }
 
 
