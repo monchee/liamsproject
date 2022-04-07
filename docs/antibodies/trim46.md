@@ -57,7 +57,7 @@ Neurological symptoms in three patients followed immune checkpoint inhibitor (IC
 ### Laboratory method
 <div class="grid cards" markdown>
 
-- :material-flask: Immunohistochemistry screening, 
+- :material-flask: Immunohistochemistry screening
 - :material-eyedropper: Western blotting 
 - :material-test-tube: Cell-based assay
 
@@ -68,6 +68,5 @@ Neurological symptoms in three patients followed immune checkpoint inhibitor (IC
 ### Grade
 
 ### Next steps
-
 
 [^1]: Valencia-Sanchez C, Knight AM, Hammami MB, Guo Y, Mills JR, Kryzer TJ, Piquet AL, Amin A, Heinzelmann M, Lucchinetti CF, Lennon VA, McKeon A, Pittock SJ, Dubey D. Characterisation of TRIM46 autoantibody-associated paraneoplastic neurological syndrome. J Neurol Neurosurg Psychiatry. 2022 Feb;93(2):196-200. 
