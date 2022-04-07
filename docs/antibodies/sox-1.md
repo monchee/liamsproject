@@ -35,7 +35,7 @@ Tissue injury tends to arise from a parallel cytotoxic T cell response, which re
 
 ### Associated neoplasia
 !!! error "High risk"
-    - >80% of cases of Anti-SOX-1 antibody will have concomitant small cell lung cancer. 
+    -  >80% of cases of Anti-SOX-1 antibody will have concomitant small cell lung cancer. 
     - 4% have non small cell lung cancer. 
     - 1.7% have other malignancies. 
 
