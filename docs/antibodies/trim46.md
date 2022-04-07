@@ -32,20 +32,23 @@ Other phenotypes included limbic encephalitis (3), encephalopathy with/without s
 
 ### Associated neoplasia
 !!! danger "High risk"
-    In an initial series of 22 patients,  18 (82%) had cancer:
+
+In an initial series of 22 patients,  18 (82%) had cancer:
 
 - Neuroendocrine carcinomas (9)
-  * Pancreatic (3)
-  * Small-cell lung (4)
-  * Oesophagus (1)
-  * Endometrium (1)
+
+    * Pancreatic (3)
+    * Small-cell lung (4)
+    * Oesophagus (1)
+    * Endometrium (1)
+
 - Adenocarcinomas (6)
-  * Lung (2)
-  * Ovarian (2)
-  * Endometrial (1)
-  * Breast (1)
-  * Sarcoma (2)
-  * Gastrointestinal tumour (1)
+    * Lung (2)
+    * Ovarian (2)
+    * Endometrial (1)
+    * Breast (1)
+    * Sarcoma (2)
+    * Gastrointestinal tumour (1)
 
 Neurological symptoms in three patients followed immune checkpoint inhibitor (ICI) administration. 
 
