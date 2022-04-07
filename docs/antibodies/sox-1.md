@@ -14,6 +14,9 @@ tags:
 
 ## **Sry-like high mobility group box 1**
 
+!!! note
+    This page is marked as near complete.
+
 ### Other names
 **Anti-glial nuclear antibody**
 
