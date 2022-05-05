@@ -69,21 +69,9 @@ Live rat hippocampal neuronal assay
     * CSF sensitivity 84%
     * Serum sensitivity 96%
     * Serum specificity 99.7%
+  
+    Addition of KCTD16 to an in house fixed CBA will improve sensitivity to that of the commercial fixed CBA and can identify higher titres in CSF and serum. Specificity was unaffected in this study.
 
--   __Live CBA__
-    
-    ---
-  
-    * CSF sensitivity 100%
-    * Serum sensitivity 93%
-  
--   __Live neuron__
-  
-    ---
-  
-    * CSF sensitivity 100%
-    * Serum sensitivity 96.5%
-  
 </div>
 
 ### Grade
