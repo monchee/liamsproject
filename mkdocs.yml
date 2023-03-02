@@ -92,7 +92,7 @@ extra:
     # property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://liam.immunowiki.co
+      link: https://liam.immunowiki.com
     - icon: fontawesome/brands/gitter
       link: https://liam.immunowiki.com
     - icon: fontawesome/brands/docker
