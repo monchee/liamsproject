@@ -80,7 +80,6 @@ plugins:
       exclude:
         - index.md
         - tags.md
-  - privacy
   
 # Customization
 extra_css:
