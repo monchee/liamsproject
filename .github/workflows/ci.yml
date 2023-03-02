@@ -1,24 +1,24 @@
-name: liamsproject
+name: liamsproject 
 on:
   push:
-    branches: 
+    branches:
       - main
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
     if: github.event.repository.fork == false
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: '0'
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git mkdocs-minify-plugin Pillow cairosvg mkdocs-git-revision-date-localized-plugin
+      - run: pip install mkdocs-material mkdocs-minify-plugin Pillow cairosvg mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
