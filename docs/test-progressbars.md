@@ -1,6 +1,6 @@
 # Test
 
-Prof wanted me to integrate some kind of visual indicator for labs so I'm trying to add something in.
+Integrating some kind of visual indicator for labs so trying to add something in.
 
 !!! note
     Please ignore this section, this area is for testing purposes only
